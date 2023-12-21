@@ -1,4 +1,4 @@
-# Aplicación de Consultas de acciones
+# Aplicación de Consultas de Acciones
 
 ## Cómo correr el programa
 
