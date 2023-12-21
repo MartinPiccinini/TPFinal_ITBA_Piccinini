@@ -57,7 +57,7 @@ Mostrar una tabla con los datos mediante el comando "Tabla"
 13  194.83  2023-12-20
 ```
 
-### Imprimir tabla de datos
+### Graficar de datos
 
 Mediante el comando "Graficar" el programa abre una nueva ventana donde se grafica un gráfico evolutivo de la acción seleccionada.
 
@@ -71,7 +71,7 @@ En el caso que se ilustra en este documento, se visualizará la siguiente imagen
     <img src="https://i.ibb.co/Srdhkzx/Figure-1.png" width="500">
 </p>
 
-### Imprimir tabla de datos
+### Resumen de base de datos
 Por último el programa tambien permite consultar todos los tickers disponibles en la base de datos y el rango de fechas disponible para cada ticker, usando el comando "Resumen"
 
 ```
