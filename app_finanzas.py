@@ -1,7 +1,7 @@
 import streamlit as st
 import funciones_app as f_module
 
-key_api = 'HOzRroodgM7p6haWXE4GSZgtn5jhzZC2'
+key_api = st.secrets["key_api"]
 
 f_module.create_database()
 
