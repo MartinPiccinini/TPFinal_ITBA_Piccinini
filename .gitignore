@@ -2,3 +2,4 @@ __pycache__/
 .ipynb_checkpoints
 no usado/
 notebooks_clase/
+.streamlit/secrets.toml
