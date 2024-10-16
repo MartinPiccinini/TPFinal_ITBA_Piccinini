@@ -3,3 +3,4 @@ __pycache__/
 no usado/
 notebooks_clase/
 .streamlit/secrets.toml
+stock_data.db
